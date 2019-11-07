@@ -10,7 +10,10 @@ spring:
   profiles: dev
   application:
     name: microconfig-test-client4
-	   
+    
+    
+    
+    
 eureka:
   client:
     serviceUrl:
@@ -28,6 +31,8 @@ spring:
   profiles: beta
   application:
     name: microconfig-test-client2
+  
+  
   
 eureka:
   client:
